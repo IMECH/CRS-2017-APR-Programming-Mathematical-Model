@@ -1,6 +1,6 @@
 # CRS-2017-APR-Programming-Mathematical-Model
 
-课程名称：《Matlab编程与模型/算法实现》
+*课程名称*：《Matlab编程与模型/算法实现》
 
 授课时间： 从下周开始，每周5下午2点至４点，计划6周讲完。 若有变动，提前通知。
 
