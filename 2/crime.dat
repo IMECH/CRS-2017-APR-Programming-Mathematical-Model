@@ -1,0 +1,15 @@
+Small yellow bike stolen case.
+ 
+Suspects location information. Data format: S, x, y
+L, 410,213
+C, 500,293
+Z, 542,433
+
+Crime time and space information. Data format: dd/mm/yyyy, x, y
+ 1/4/2017,216,489
+ 4/4/2017,634, 83
+ 8/4/2017,151,431
+15/4/2017,601,547
+19/4/2017,774,211
+25/4/2017,247,222
+28/4/2017,491,392
